@@ -1,4 +1,4 @@
-// This is config services
+// This is config service
 
 import { Injectable } from '@nestjs/common';
 import * as dotenv from 'dotenv';
