@@ -1,4 +1,4 @@
-//This controller is relate to main app controller
+//This controller is relate to main app controllers
 
 import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
